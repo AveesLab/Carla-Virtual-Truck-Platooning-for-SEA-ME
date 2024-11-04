@@ -102,7 +102,7 @@ git clone https://github.com/ysrhee6199/CarlaSemiTruckTrailer.git
 ![image](https://github.com/AveesLab/scale_truck_control_carla/assets/117966644/6f08583c-eff5-4734-87f6-a0dc88671be0)
 
 
-8. Compile and save.
+7. Compile and save.
 
 ![image](https://github.com/AveesLab/scale_truck_control_carla/assets/117966644/ed9bc67b-2432-4cfa-ade1-21297d185d00)
 
