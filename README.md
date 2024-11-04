@@ -1,4 +1,4 @@
-# Carla for Truck Platooning
+# Spawn Truck Platoon in Carla Simulator for Truck Platooning
 
 
 # System Requirements
