@@ -98,10 +98,12 @@ git clone https://github.com/ysrhee6199/CarlaSemiTruckTrailer.git
 4. Fill in the **Make** and **Model** of your vehicle. For the truck name the **Make**: "DAFxf". And for the trailer name the **Make**: "trailer".
 5. Fill in the **Class** value with your ```BP_<vehicle_name>``` file.
 6. Optionally, provide a set of recommended colors for the vehicle. Name the "model" an "make" as below in the picture
+
 ![image](https://github.com/AveesLab/scale_truck_control_carla/assets/117966644/6f08583c-eff5-4734-87f6-a0dc88671be0)
 
 
-7. Compile and save.
+8. Compile and save.
+
 ![image](https://github.com/AveesLab/scale_truck_control_carla/assets/117966644/ed9bc67b-2432-4cfa-ade1-21297d185d00)
 
 
@@ -118,12 +120,12 @@ python3 manual_controlSemiTrailer.py
     ```
     make import
     ```
-- After then,
+- And then,
     ```
     make launch
     ```
-- 4. in **/Content/map_package/Maps**, there is the 'k-track' map
-- 5. Change materials of Element 1 & Element 2
+- in **/Content/map_package/Maps**, there is the 'k-track' map
+- Change materials of Element 1 & Element 2
 
 ![image](https://github.com/user-attachments/assets/253b6ee1-14b5-4ad4-b3e1-cb37f8bfeca3)
 
